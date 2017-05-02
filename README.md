@@ -1,4 +1,5 @@
 # udemy-rust-programming-language
+Solutions for [The Rust Programming Language](https://www.udemy.com/rust-lang/) course on Udemy.
 
 ## Bugs and Feedback
 
